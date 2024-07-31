@@ -2,6 +2,11 @@
 
 This project implements a local Llama3 instance with prompt engineering for assistant personalization. It uses Streamlit for the user interface. 
 
+## Preview
+
+![ChatBot Interface](screenshot.PNG)
+![ChatBot Interface1](screenshot1.PNG)
+
 ## Prerequisite and Installation : 
 
   - Install [Ollama](https://ollama.com/download) and Llama3 
