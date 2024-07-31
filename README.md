@@ -11,4 +11,4 @@ This project implements a local Llama3 instance with prompt engineering for assi
   - Pull the model : ollama pull Llama3
   - Install dependencies: pip install -r requirements.txt
   - Run the Streamlit app: streamlit run main.py
-  - Access the interface in your browser: http://localhost:8501
+  - Access the interface in your browser
