@@ -9,11 +9,11 @@ This project implements a local Llama3 instance with prompt engineering for assi
 
 ## Prerequisite and Installation : 
 
-  - Install [Ollama](https://ollama.com/download) and Llama3 
+  - Install [Ollama](https://ollama.com/download)
   - Clone this repository
   - Navigate to the project directory
   - Start Ollama: ollama serve
-  - Pull the model : ollama pull Llama3
+  - Pull the model : ollama pull llama3
   - Install dependencies: pip install -r requirements.txt
   - Run the Streamlit app: streamlit run main.py
   - Access the interface in your browser
