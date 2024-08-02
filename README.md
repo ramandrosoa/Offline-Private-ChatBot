@@ -10,7 +10,7 @@ This project implements a local Llama3 instance with prompt engineering for assi
 ## Prerequisite and Installation : 
 
   - Install [Ollama](https://ollama.com/download)
-  - Pull the model : ollama pull llama3
+  - Pull the model : ollama pull llama3 (or any other model)
   - Clone this repository
   - Navigate to the project directory
   - Start Ollama: ollama serve
