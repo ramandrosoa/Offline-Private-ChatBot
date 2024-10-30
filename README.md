@@ -12,6 +12,7 @@ I used Ollama to run the model locally. Once the model was trained and saved, I 
 
 ```bash
 ollama create math_3b -f Modelfile
+```
 
 ## Preview
 
