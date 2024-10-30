@@ -5,7 +5,7 @@ The primary objective is to create a personalized assistant capable of providing
 
 ## Project Overview
 
-The model was trained on the [lighteval/MATH](https://huggingface.co/datasets/lighteval/MATH) dataset from HuggingFace, focusing on enhancing its ability to understand and respond to mathematical queries.
+The model was finetuned with LoRA on the [lighteval/MATH](https://huggingface.co/datasets/lighteval/MATH) dataset from HuggingFace, focusing on enhancing its ability to understand and respond to mathematical queries.
 [Prompt engineering](app.py) was performed to personalize the assistant's interactions and the model was deployed on Streamlit for the user interface. 
 I used Ollama to run the model locally. Once the model was trained and saved, I created the personalized model using the following command in the terminal: 
 
