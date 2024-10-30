@@ -17,4 +17,5 @@ I used Ollama to run the model locally. Once the model was trained and saved, I 
 ![ChatBot Interface](MBTI-screenshot1.PNG)
 ![ChatBot Interface1](MBTI-screenshot.PNG)
 
-
+## Reference 
+[Llama-3.2 1B+3B Conversational + 2x faster finetuning.ipynb](https://colab.research.google.com/drive/1T5-zKWM_5OD21QHwXHiV9ixTRR7k3iB9)
