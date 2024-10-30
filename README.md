@@ -17,5 +17,4 @@ I used Ollama to run the model locally. Once the model was trained and saved, I 
 ![ChatBot Interface](MBTI-screenshot1.PNG)
 ![ChatBot Interface1](MBTI-screenshot.PNG)
 
- [Finetune](https://github.com/ramandrosoa/Offline-Private-ChatBot/blob/main/Untitled13.ipynb)
-[Dataset](https://huggingface.co/datasets/lighteval/MATH)
+
