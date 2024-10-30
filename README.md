@@ -8,4 +8,4 @@ This project implements a local Llama 3.2-3B instance with prompt engineering fo
 ![ChatBot Interface1](MBTI-screenshot.PNG)
 
  [Finetune](https://github.com/ramandrosoa/Offline-Private-ChatBot/blob/main/Untitled13.ipynb)
-[Dataset]{https://huggingface.co/datasets/lighteval/MATH}
+[Dataset](https://huggingface.co/datasets/lighteval/MATH)
