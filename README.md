@@ -5,7 +5,7 @@ This project implements a local Llama3 instance with prompt engineering for assi
 ## Preview
 
 ![ChatBot Interface](MBTI-screenshot1.PNG)
-![ChatBot Interface1](MBTI-screenshot2.PNG)
+![ChatBot Interface1](MBTI-screenshot.PNG)
 
 ## Prerequisite and Installation : 
 
