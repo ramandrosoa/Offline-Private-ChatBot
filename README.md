@@ -14,15 +14,7 @@ This project implements a locally running Llama 3.2-3B finetuned on a custom dat
 ![Ollama](https://img.shields.io/badge/Ollama-local--inference-black)
 ![LoRA](https://img.shields.io/badge/LoRA-PEFT-orange)
 
----
 
-## 📁 Project Structure
-
-```
-├── app.py           
-├── requirements.txt
-└── screenshots/
-```
 
 ---
 
